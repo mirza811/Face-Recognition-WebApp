@@ -1,0 +1,7 @@
+streamlit>=1.32
+sqlalchemy>=2.0
+numpy>=1.24
+pillow>=10.0
+opencv-python>=4.8
+insightface>=0.7.3
+onnxruntime>=1.16
